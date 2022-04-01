@@ -11,4 +11,4 @@
 ##Tecnologie utilizzate:
 
 ##Ringraziamo:
-ciao
+ciao gdf
